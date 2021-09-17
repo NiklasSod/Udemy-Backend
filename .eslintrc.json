@@ -23,5 +23,8 @@
       "error",
       { "argsIgnorePattern": "req|res|next|val|err|con" }
     ]
+  },
+  "engine": {
+    "node": ">=14.0.0"
   }
 }
